@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ujwal reddy battu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwal reddy battu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ujwal-reddy-battu-5a69b2279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwal reddy battu" height="30" width="40" /></a>
 <a href="https://kaggle.com/ujwal_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ujwal_19" height="30" width="40" /></a>
 <a href="https://instagram.com/ujwal_reddy_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujwal_reddy_19" height="30" width="40" /></a>
 </p>
